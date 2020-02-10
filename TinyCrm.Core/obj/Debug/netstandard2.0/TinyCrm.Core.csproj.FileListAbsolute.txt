@@ -1,0 +1,8 @@
+C:\Users\Dimitra\devel\tinycrm10-2\TinyCrm.Core\bin\Debug\netstandard2.0\TinyCrm.Core.deps.json
+C:\Users\Dimitra\devel\tinycrm10-2\TinyCrm.Core\bin\Debug\netstandard2.0\TinyCrm.Core.dll
+C:\Users\Dimitra\devel\tinycrm10-2\TinyCrm.Core\bin\Debug\netstandard2.0\TinyCrm.Core.pdb
+C:\Users\Dimitra\devel\tinycrm10-2\TinyCrm.Core\obj\Debug\netstandard2.0\TinyCrm.Core.csprojAssemblyReference.cache
+C:\Users\Dimitra\devel\tinycrm10-2\TinyCrm.Core\obj\Debug\netstandard2.0\TinyCrm.Core.AssemblyInfoInputs.cache
+C:\Users\Dimitra\devel\tinycrm10-2\TinyCrm.Core\obj\Debug\netstandard2.0\TinyCrm.Core.AssemblyInfo.cs
+C:\Users\Dimitra\devel\tinycrm10-2\TinyCrm.Core\obj\Debug\netstandard2.0\TinyCrm.Core.dll
+C:\Users\Dimitra\devel\tinycrm10-2\TinyCrm.Core\obj\Debug\netstandard2.0\TinyCrm.Core.pdb
